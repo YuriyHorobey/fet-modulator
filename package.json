@@ -1,0 +1,21 @@
+{
+  "name": "fet-modulator",
+  "version": "0.0.1",
+  "description": "Takes js source file, parses for module name and puts it into tempalte.",
+  "main": "modulator.js",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "gulp": "^3.9.0",
+    "through2": "^2.0.0"
+  },
+  "keywords": [
+    "source",
+    "template"
+  ],
+  "author": "Yuriy Horobey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriyHorobey/gulp-plugin/issues"
+  },
+  "homepage": "https://github.com/YuriyHorobey/gulp-plugin#readme"
+}
